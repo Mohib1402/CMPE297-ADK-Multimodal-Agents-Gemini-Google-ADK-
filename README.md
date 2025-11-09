@@ -10,7 +10,7 @@ This repo contains five end-to-end agents built with **Google ADK** and **Gemini
 
 All agents run entirely in **Google Colab** and use Gemini via `google-genai` and ADK via `google-adk`.
 
-> 📺 **Demo video (all agents)**: [TODO_DEMO_VIDEO_LINK]()
+> 📺 **Demo video (all agents)**: [LINK]()
 
 ---
 
